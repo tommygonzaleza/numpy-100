@@ -2,7 +2,13 @@
 
 ## 📝 Instructions:
 
-1. Find the memory size of the array that you just created and print it in the console.
+1. Find the memory size of the array `vector` and print it in the console.
+
+## Expected Output:
+
+```bash
+80
+```
 
 ## 💡Hints:
 

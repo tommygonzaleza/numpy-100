@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Create a matriz with all the values equal to one (1).
+1. Create a matrix (5 x 5) with all the values equal to one (1).
 
 2. Add zero (0) as the values that are on the center of the matrix.
 

@@ -4,6 +4,12 @@
 
 1. Create a null vector of size 10 and print it in the console.
 
+## Expected Output:
+
+```bash
+[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+```
+
 ## 💡Hints:
 
 + This is the function you use to create null vectors: `np.zeros`.

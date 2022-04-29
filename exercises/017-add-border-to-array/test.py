@@ -4,7 +4,7 @@ import numpy
 
 @pytest.mark.it("You have to use the ones() method")
 def test_random():
-    f = open('app.py')
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
     assert "ones(" in content
 

@@ -2,7 +2,13 @@
 
 ## 📝 Instrucciones:
 
-1. Encuentra la cantidad de memoria ocupada por el array e imprimela en la consola.
+1. Encuentra la cantidad de memoria ocupada por el array `vector` e imprimela en la consola.
+
+## Resultado Esperado:
+
+```bash
+80
+```
 
 ## 💡 Pistas:
 

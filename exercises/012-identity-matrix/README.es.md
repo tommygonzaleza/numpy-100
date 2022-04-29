@@ -4,6 +4,14 @@
 
 1. Crea una matriz identidad de dimensiones 3 x 3 e imprimela en la consola.
 
+## Resultado Esperado:
+
+```bash
+[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+```
+
 ## 💡 Pistas:
 
 + Una matriz identidad es una matriz cuadrada donde todos sus elementos son ceros (0) menos los elementos de la diagonal que son unos (1).

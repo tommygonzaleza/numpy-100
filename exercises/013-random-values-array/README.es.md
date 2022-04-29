@@ -2,7 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Crea una variable llamada `arr` cuyo valor debe ser un array con tres valores aleatorios.
+1. Crea una variable llamada `vector` cuyo valor debe ser un array con tres valores aleatorios.
 
 ## 💡 Pista:
 

@@ -2,7 +2,13 @@
 
 ## 📝 Instructions:
 
-1. Find the indices of the non zero elements from this array: `[1,2,0,0,4,0]`.
+1. Find the indices of the non zero elements from the `vector` array.
+
+## Expected Output:
+
+```bash
+(array([0, 1, 4]),)
+```
 
 ## 💡 Hint:
 

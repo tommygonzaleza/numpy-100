@@ -4,6 +4,12 @@
 
 1. Crea un vector nulo de tamaño 10 e imprimelo en la consola.
 
+## Resultado Esperado:
+
+```bash
+[0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+```
+
 ## 💡 Pistas:
 
 + La función para crear vecotres nulos es: `np.zeros`.

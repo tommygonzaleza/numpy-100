@@ -4,6 +4,14 @@
 
 1. Create an identity matrix of dimensions 3 x 3 and print it in the console.
 
+## Expected Output:
+
+```bash
+[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]
+```
+
 ## 💡 Hints:
 
 + The identity matrix is a matrix with ones on the main diagonal and zeros elsewhere.

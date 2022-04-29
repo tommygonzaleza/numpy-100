@@ -2,9 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Create variable named `arr` which value should be an array with 10 random values.
-
-2. Find the maximum value and print it in the console.
+1. Find the maximum value of the `vector` array and print it in the console.
 
 ## 💡 Hint:
 

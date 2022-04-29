@@ -2,7 +2,13 @@
 
 ## 📝 Instrucciones:
 
-1. Encuentra los indices de los elementos diferentes de cero en el siguiente array: `[1,2,0,0,4,0]`.
+1. Encuentra los indices de los elementos diferentes de cero en el array `vector`.
+
+## Resultado Esperado:
+
+```bash
+(array([0, 1, 4]),)
+```
 
 ## 💡 Pista:
 

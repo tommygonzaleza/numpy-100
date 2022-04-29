@@ -16,6 +16,12 @@ arr = np.zeros(10)
 arr[1] = 1
 ```
 
+## Expected Output:
+
+```bash
+[0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+```
+
 ## 💡 Hints:
 
 + You modify the values of the array the same way that you modify the values of normal python lists (By there position).

@@ -2,9 +2,7 @@
 
 ## 📝 Instrucciones:
 
-1. Crea una variable llamada `arr` cuyo valor debe ser un array con 10 valores aleatorios.
-
-2. Encuentra el valor medio e imprímelo en la consola.
+1. Encuentra el valor medio del array `vector` e imprímelo en la consola.
 
 ## 💡 Pista:
 

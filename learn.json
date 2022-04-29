@@ -1,0 +1,33 @@
+{
+  "port": 3000,
+  "editor": {
+    "mode": null,
+    "agent": null,
+    "version": null
+  },
+  "dirPath": "./.learn",
+  "configPath": "./learn.json",
+  "outputPath": "./.learn/dist",
+  "publicPath": "/preview",
+  "publicUrl": null,
+  "language": "auto",
+  "grading": "isolated",
+  "exercisesPath": "./exercises",
+  "webpackTemplate": null,
+  "disableGrading": false,
+  "disabledActions": [],
+  "actions": [],
+  "entries": {
+    "html": "index.html",
+    "vanillajs": "index.js",
+    "react": "app.jsx",
+    "node": "app.js",
+    "python3": "app.py",
+    "java": "app.java"
+  },
+  "difficulty": "intermediate",
+  "duration": 20,
+  "description": "This is a collection of numpy exercises from numpy mailing list, stack overflow, and numpy documentation. I have also created some problems myself to reach the 100 limit.",
+  "title": "Numpy 100",
+  "slug": "numpy-100"
+}

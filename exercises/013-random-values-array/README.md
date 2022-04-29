@@ -2,7 +2,7 @@
 
 ## 📝 Instructions:
 
-1. Create variable named `arr` which value should be an array with 3 random values.
+1. Create variable named `vector` which value should be an array with 3 random values.
 
 ## 💡 Hint:
 

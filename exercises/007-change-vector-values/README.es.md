@@ -16,6 +16,12 @@ arr = np.zeros(10)
 arr[1] = 1
 ```
 
+## Resultado Esperado:
+
+```bash
+[0. 0. 0. 0. 1. 0. 0. 0. 0. 0.]
+```
+
 ## 💡 Pistas:
 
 + Los valores de los arrays se cambian de la misma manera que se cambian los valores de las listas normales de python (A través de su posición).
