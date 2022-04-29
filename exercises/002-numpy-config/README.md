@@ -1,10 +1,9 @@
-# `003` Numpy Version
+# `002` Numpy Config
 
 ## 📝 Instructions:
 
-1. Print numpy's version in the console.
-## 💡Hints:
+1. Print numpy's configuration in the console.
 
-+ This is how you get Numpy's version: `np.__version__`.
+## 💡Hints:
 
 + This is how you get Numpy's configuration: `np.show_config()`.
