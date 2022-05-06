@@ -1,6 +1,4 @@
 import pytest
-import os
-import numpy
 
 @pytest.mark.it('The output should be a the diagonal of the matrix')
 def test_print(capsys):
