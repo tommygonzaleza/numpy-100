@@ -271,7 +271,7 @@ print(np.array(0) / np.array(0))
 print(np.array(0) // np.array(0))
 print(np.array([np.nan]).astype(int).astype(float))
 ```
-#### 29. How to round away from zero a float array ? (★☆☆)
+#### 29. How to round away from zero a float array? (★☆☆)
 `hint: np.uniform, np.copysign, np.ceil, np.abs, np.where`
 
 ```python
