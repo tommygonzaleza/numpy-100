@@ -1,9 +1,11 @@
-# `035` Specific Dates
+# `037` Extract Integers
 
 ## 📝 Instrucciones:
 
-1. Obtén todas las fechas de julio de 2022 en un vector e imprime este vector en la consola.
+1. Extrae la parte entera de cada uno de los valores del vector dado.
+
+2. Imprime el vector con la parte entera de los valores.
 
 ## 💡 Pista:
 
-+ Debes usar la función `arange` con datetime. Puedes leer más sobre datetime en el siguiente link: https://numpy.org/doc/stable/reference/arrays.datetime.html. Ahí podrás encontrar un ejemplo del uso de `arange` con datetime.
++ Puedes usar cuatro métodos diferentes para obtener la parte entera de un número decimal. Puedes usar las funciones de numpy `np.floor` o `np.trunc`. Por otro lado, puedes usar otros métodos como: `vector // 1` o `vector.astype(int)`. En este caso, debes usar una de las funciones de numpy.

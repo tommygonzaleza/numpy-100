@@ -1,9 +1,17 @@
-# `035` Specific Dates
+# `040` Excluded Ranging
 
 ## 📝 Instrucciones:
 
-1. Obtén todas las fechas de julio de 2022 en un vector e imprime este vector en la consola.
+1. Crea un vector de tamaño 10, cuyos valores esten entre 0 y 1, ambos excluídos.
 
-## 💡 Pista:
+2. Imprime el vector en la consola.
 
-+ Debes usar la función `arange` con datetime. Puedes leer más sobre datetime en el siguiente link: https://numpy.org/doc/stable/reference/arrays.datetime.html. Ahí podrás encontrar un ejemplo del uso de `arange` con datetime.
+## Resultado Esperado:
+
+```python
+[0. 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9]
+```
+
+## 💡 Pistas:
+
++ Debes usar la función `linspace`. Puedes leer más sobre esta función en el siguiente link: https://numpy.org/doc/stable/reference/generated/numpy.linspace.html

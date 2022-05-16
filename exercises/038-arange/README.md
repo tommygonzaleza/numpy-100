@@ -1,9 +1,21 @@
-# `035` Specific Dates
+# `038` Arange
 
 ## 📝 Instructions:
 
-1. Get all the dates of july 2022 in a vector and print the vector in the console.
+1. Create a matrix with dimensions 5 x 5, with row values ranging from 0 to 4.
+
+2. Print the matrix in the console.
+
+## Expected Output:
+
+```python
+[[0. 1. 2. 3. 4.]
+ [0. 1. 2. 3. 4.]
+ [0. 1. 2. 3. 4.]
+ [0. 1. 2. 3. 4.]
+ [0. 1. 2. 3. 4.]]
+```
 
 ## 💡 Hint:
 
-+ You have to use the `arange` function with datetime. You can read more about datetime on the following link: https://numpy.org/doc/stable/reference/arrays.datetime.html. There you'll see an example of using `arange` with datetime.
++ You have to use the `arange` function. You can read more about the `arange` function on this link: https://numpy.org/doc/stable/reference/generated/numpy.arange.html.

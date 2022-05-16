@@ -2,8 +2,10 @@
 
 ## 📝 Instructions:
 
-1. Get all the dates of july 2022 in a vector and print the vector in the console.
+1. Extract the integer part of the numbers of the given vector.
+
+2. Print the vector without the decimals.
 
 ## 💡 Hint:
 
-+ You have to use the `arange` function with datetime. You can read more about datetime on the following link: https://numpy.org/doc/stable/reference/arrays.datetime.html. There you'll see an example of using `arange` with datetime.
++ You can use four different methods to get the integer part of a float number. You can use numpy's functions `np.floor` or `np.trunc`. On the other side, you can use other methods like: `vector // 1` or `vector.astype(int)`. On this case, you should use a numpy method.
